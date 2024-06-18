@@ -1,0 +1,2 @@
+# Medical-Image-Interpretation-with-Large-Multimodal-Models
+The following repository contains source files for ImageCLEFmedical 2024 Caption subtasks, specifically focusing on Caption Prediction and Concept Detection. The dataset used, containing image-caption pairs and corresponding Unified Medical Language System (UMLS) concepts, is a subset of the ROCOv2 (Radiology Objects in COntext version 2) dataset.
