@@ -1,0 +1,13 @@
+# idefics_9b_instruct_selective.py (transformers must still accept `evaluation_strategy`).
+torch==2.3.0
+transformers<4.46
+accelerate
+bitsandbytes
+sentencepiece
+loralib
+peft
+datasets
+hf_transfer
+pandas
+pillow
+matplotlib

@@ -1,0 +1,21 @@
+# LLaVA 1.5 / 1.6 scripts and moondream2.py (versions used in the original runs).
+# LLaVA scripts also need the LLaVA repo: run `--mode setup`, then `pip install -e LLaVA`.
+torch==2.1.2
+torchvision
+transformers==4.37.2
+accelerate==0.21.0
+sentencepiece==0.1.99
+bitsandbytes
+peft
+loralib
+datasets
+hf_transfer
+einops
+timm
+wandb
+pandas
+pillow
+requests
+tqdm
+matplotlib
+# flash-attn  # optional, used by some LLaVA 1.6 runs; install with --no-build-isolation

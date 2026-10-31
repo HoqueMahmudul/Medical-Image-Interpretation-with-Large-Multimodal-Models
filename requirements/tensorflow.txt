@@ -1,0 +1,10 @@
+# cnn_transformer.py and concept_detection/convmixer.py (TensorFlow 2.x with Keras 2).
+tensorflow<2.16
+numpy
+pandas
+scikit-learn
+opencv-python
+nltk
+rouge
+matplotlib
+tqdm

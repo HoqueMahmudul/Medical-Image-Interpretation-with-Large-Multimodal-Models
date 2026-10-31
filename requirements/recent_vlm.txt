@@ -1,0 +1,21 @@
+# qwen2_vl_2b.py, smolvlm.py and vision_gpt2.py.
+torch
+torchvision
+transformers
+accelerate
+datasets
+peft
+bitsandbytes
+hf_transfer
+qwen-vl-utils
+tensorboard
+rapidfuzz
+timm
+albumentations
+scikit-learn
+numpy
+pandas
+pillow
+tqdm
+matplotlib
+# flash-attn==2.7.3  # optional, needs a CUDA build toolchain (ninja)
